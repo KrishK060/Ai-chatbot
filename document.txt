@@ -1,0 +1,398 @@
+﻿Advant AI Labs LLP
+General Policies & Onboarding Guide
+________________
+Company Machine/Laptop Use Policy
+
+
+Video - Please Watch this Video
+https://fathom.video/share/Nw6KPRBAbtvZL26ysyYWhjXd5mePiC5h
+Purpose
+
+
+This policy outlines the responsible use of company-issued machines and laptops to ensure the security, efficiency, and proper maintenance of company assets. This policy applies to all employees and contractors using company-issued laptops and other computing devices.
+Policy Guidelines
+* Device Assignment:
+   * Laptops and other devices are issued based on the role and operational requirements of the employee.
+   * Devices remain the property of Advent AI Labs LLP.
+* Authorized Use:
+   * Company devices must be used for work-related purposes only.
+   * If found using it for personal purposes, actions will be taken.
+   * Personal use must not interfere with work obligations or violate company policies.
+* Data Security:
+   * Company data must not be stored on unauthorized third-party platforms.
+   * Use strong passwords and ensure that devices are locked when unattended.
+* Software Installation:
+   * Installation of unauthorized software is prohibited.
+   * Any software required for work must be approved by your Lead.
+   * Do not install any software without permission.
+   * Do not use any cracked or pirated software in system.
+* Maintenance and Care:
+   * Handle devices responsibly to prevent physical damage.
+   * Report any technical issues immediately to your lead.
+   * Take care of device; if device is damaged by you, it will result in deduction of repair cost from salary.
+* Return of Equipment:
+   * Devices must be returned upon termination of employment or upon request.
+* Prohibited Activities:
+   * Accessing or distributing illegal, obscene, or offensive material.
+   * Using company devices for unauthorized commercial activities.
+   * Engaging in activities that compromise the security of the company network.
+________________
+Timing Policy
+
+
+Purpose
+
+
+This policy defines the working hours, shifts, and leave guidelines for employees, following Zoho HR system standards.
+Shift Policy
+* Standard Working Hours:
+   * The standard workweek consists of 5 days
+   * Working hours are from 10:00 AM to 11:00 PM, flexible working hours.
+   * Need to complete 6 hours a day minimum, you can cover up remaining hours some other day.
+   * If you need to go out for personal work, you must need to cover those hours.
+   * If you are starting second half and going out in second half, please apply half leaves.
+   * For Trainees workweek is 6 days a week, with alternate saturday working.
+   * Leave on Non Working Bank Day on saturday.
+* Attendance Tracking:
+   * All employees must clock in and out using the Zoho HR system.
+   * If you forget to check in, it can result in a Loss of Pay or be considered as unplanned leave.
+
+
+________________
+Leave Policy, Leave Application and Client Communication Process
+
+
+Purpose
+
+
+This document outlines the procedure for applying leaves and ensuring proper communication with clients, project managers, and team members. In a service-based industry where employees work across multiple projects, maintaining clear communication about leaves is crucial for project continuity and client satisfaction.
+Leave Policy
+* Leave Types:
+   * Annual Leave: 12 days per calendar year.
+   * Sick Leave: 6 days per calendar year.
+   * Paternity Leave: 10 days per calendar year.
+   * Maternity Leave: 182 days per calendar year (if an employee has completed at least a year with the company).
+   * Public Holidays: As per the official company calendar.
+Detailed Process
+* Apply Leave in Zoho People
+   * Access Advant HR
+      * Visit https://hr.advant.xyz/advant/zp#leavetracker/mydata/summary-mode:list
+      * Login with your credentials
+      * Navigate to the leave tracker section
+   * Submit Leave Application
+      * Click “Apply Leave” button
+      * Fill required details:
+         * From/To dates
+         * Leave type
+         * Notes (include reason for leave)
+* Team Communication
+   * Post a message in slack availibility channel
+   * Tag appropriate team members or your RM
+* Calendar Management
+   * Create Calendar Event
+      * Access Google calendar
+      * Create new “All-Day” event
+      * Title: “[Name] is on leave”
+
+
+Best Practices
+* Advanced Planning
+   * Submit leave requests well in advance
+   * Consider project deadlines when planning leaves
+   * Account for public holidays and weekends
+* Communication
+   * Be clear about leave dates and duration
+   * Provide comprehensive handover if needed
+* Calendar Management
+   * Keep calendar up to date
+   * Set appropriate reminders
+   * Monitor responses from stakeholders
+________________
+Daily Communication and Status Updates
+
+
+Status Update Protocol
+Daily status updates are crucial for maintaining project transparency and team coordination. These updates help managers track progress and address challenges promptly.
+Timing and Format
+Submit your status update before ending your workday, including:
+* Today’s Plan
+   * Tasks completed
+   * Progress on ongoing work
+   * Meetings attended
+   * Key decisions made
+* Yesterday’s Work
+   * Finished XYZ Tasks
+   * Released XYZ Changes
+* Blockers and Challenges
+   * Current obstacles
+   * Required support
+   * Pending decisions
+   * Resource needs
+Communication Guidelines
+* Tag relevant managers
+* Use clear, professional language
+* Provide specific details and metrics
+* Maintain consistency in reporting
+________________
+Client Communication Guidelines
+
+
+Importance of Communication
+Effective communication is the cornerstone of successful projects. Our communication principles emphasize empathy and shared understanding. A simple guiding principle to follow: “When in doubt, communicate more.”
+Responsiveness
+* Timely Responses: Respond to client messages promptly, even if they arrive outside their usual working hours. Delayed responses appear unprofessional.
+* Acknowledge Messages: Always answer or acknowledge client queries before providing status updates.
+* Comprehensive Replies: Address all client questions or remarks in your responses; avoid selectively answering.
+* Preparedness for Meetings: Always prepare for client meetings by having relevant links, demos, screenshots, or documents ready.
+* Detailed Responses: Avoid oversimplified replies like “Ok” or “Will check.” Instead, provide descriptive answers with all necessary details.
+* Acknowledgement: If tagged in a message, acknowledge it immediately, even if the resolution is pending.
+* Complete Conversations: Ensure discussions are concluded logically before logging off for the day.
+Asking Questions
+* Thoughtful Questions: Avoid repetitive or trivial questions. Provide context and assume reasonable interpretations to avoid unnecessary queries.
+* Suggest Options: Present potential solutions or options when seeking guidance instead of asking open-ended questions.
+* Review Shared Information: Check all previously shared documents, links, or details before asking for them again.
+* Use Calls for Complex Queries: If the issue involves multiple exchanges, initiate a call to save time and avoid client frustration.
+Explanations
+* Simplify for Non-Technical Clients: Avoid technical jargon when explaining issues to business-oriented clients. Focus on business implications.
+* Detail for Technical Clients: Provide in-depth technical explanations for clients with a technical background.
+* Report Changes: Inform clients about your availability, leaves, or timing changes, preferably after consulting your project/reporting manager for extended leaves.
+* Preparedness for Calls: Anticipate potential client questions and prepare to address them during calls.
+* Admit Mistakes Gracefully: When a client points out a mistake, apologize rather than argue. If needed, provide a detailed explanation with supporting data.
+* Elaborate Proposals: Compile detailed cases with supporting arguments for convincing clients on important decisions. Use emails or calls instead of fragmented chats.
+General Etiquettes
+* Basic Courtesy:
+   * Say “Thank you” when someone helps.
+   * Use “My pleasure” when someone appreciates.
+   * Respond to greetings politely.
+   * Use phrases like “Can you please…” or “I would appreciate if…” for requests.
+   * Apologize gracefully when necessary.
+* Request, Don’t Command: Always maintain a requesting tone, regardless of your seniority.
+* Follow Client Preferences: Understand and adhere to the client’s preferred communication methods, whether it’s email, comments, or chat.
+* Schedule Meetings Properly: Ensure meetings are scheduled in advance and acknowledge emails and messages promptly.
+* Use English for Communication: Conduct internal and external meetings in English to ensure inclusivity and improve communication skills.
+* Status Updates: Inform your team if you need to step away during work hours and set an appropriate status in communication tools like Teams.
+________________
+Work Ethic Policy and Guidelines
+
+
+Purpose
+This policy aims to establish clear expectations for the professional conduct and work ethic of all employees at Advant AI Labs. By fostering a culture of accountability, integrity, and collaboration, we strive to ensure the delivery of high-quality technology solutions and maintain a positive and productive work environment.
+Scope
+This policy applies to all employees of Advant’s IT department, including but not limited to software developers, system administrators, network engineers, database administrators, IT support staff, and project managers.
+Core Values and Principles
+* Integrity and Trust: Upholding the highest ethical standards, maintaining confidentiality, and building trust with colleagues and clients.
+* Accountability and Ownership: Taking responsibility for tasks, delivering results, and being transparent about progress and challenges.
+* Collaboration and Teamwork: Working effectively with team members and other departments to achieve common goals, sharing knowledge, and supporting each other.
+* Innovation and Continuous Learning: Embracing a growth mindset, staying up-to-date with emerging technologies, and seeking opportunities for professional development.
+* Professionalism and Respect: Maintaining a professional demeanor in all interactions, communicating clearly and respectfully, and treating everyone with fairness and courtesy.
+Specific Guidelines
+* Attendance and Time Management
+   * Adhere to Advant’s established work hours and schedules.
+   * Provide timely notification of any absences or delays to supervisors.
+   * Prioritize tasks effectively and manage time efficiently to meet deadlines.
+   * Minimize non-work-related distractions during work hours.
+* Communication and Collaboration
+   * Communicate clearly, concisely, and professionally in all forms of communication (email, chat, meetings, etc.).
+   * Respond promptly to inquiries and requests from colleagues and clients.
+   * Actively participate in team meetings and contribute to collaborative projects.
+Data Security and Confidentiality
+* Protect Advant’s and clients’ confidential information and data at all times.
+* Adhere to Advant’s data security policies and procedures.
+* Report any suspected security breaches or data leaks immediately.
+* Exercise caution when handling sensitive data and avoid unauthorized access or disclosure.
+Code of Conduct and Ethical Behavior
+* Avoid any behavior that could damage Advant’s reputation or compromise its integrity.
+* Treat all individuals with respect and fairness, regardless of their background or position.
+* Avoid any form of discrimination, harassment, or bullying.
+* Respect intellectual property rights.
+Technology and Resource Usage
+* Use Advant’s technology resources (computers, software, networks, etc.) responsibly and for work-related purposes.
+* Avoid downloading or installing unauthorized software or applications.
+* Maintain the security and integrity of Advant’s IT systems.
+Problem Solving and Initiative
+* Proactively identify and address technical challenges.
+* Take initiative to improve processes and workflows.
+* Seek assistance when needed and collaborate with colleagues to find solutions.
+* Document solutions and problems for future use.
+* Be proactive in preventing issues.
+Continuous Learning and Skill Development
+* Stay up-to-date with the latest technologies and industry trends.
+* Participate in training and development opportunities provided by Advant AI Labs.
+* Share knowledge and expertise with colleagues.
+* Seek out opportunities to expand your skillset.
+Remote Work Guidelines (If Applicable)
+* Maintain a professional work environment at home.
+* Ensure reliable internet connectivity and necessary equipment.
+* Maintain consistent communication with team members.
+________________
+
+
+Appraisal and Performance Review Policy
+
+
+Purpose
+This policy establishes a structured framework for evaluating employee performance, providing constructive feedback, and determining appropriate compensation adjustments at Advant AI Labs. The policy aims to promote a fair, transparent, and consistent approach to performance management that aligns individual objectives with company goals.
+Scope
+This policy applies to all full-time and part-time employees of Advant AI Labs who have completed at least six months of service by the performance review date.
+Performance Review Cycle
+Annual Review Schedule
+* Advant AI Labs follows a yearly performance evaluation and appraisal cycle.
+* The formal performance review period runs from January 1 to December 31 each year.
+* Performance reviews are conducted in December.
+* Revised compensation resulting from the appraisal will be effective from January 1 and reflected in the January salary payment.
+Mid-Year Check-ins
+* Mid-year performance discussions will be held in June/July to:
+   * Review progress on goals and objectives
+   * Address any performance concerns
+   * Adjust goals if necessary
+   * Provide developmental feedback
+* These mid-year check-ins are not directly tied to compensation decisions but serve as an important checkpoint for the annual review.
+Trainee Evaluation
+* For trainees, For first six months, quarterly performance evaluations and appraisal will be done and then it will be converted to yearly.
+Performance Review Components
+Self-Assessment
+* Employees will complete a self-assessment form, reflecting on their achievements, challenges, and growth during the review period.
+* Self-assessments should include:
+   * Key accomplishments and contributions
+   * Progress on previously set goals
+   * Areas for improvement
+   * Career aspirations and development needs
+* Self-assessments must be submitted two weeks before the scheduled performance review meeting.
+Manager Review
+* Direct managers will evaluate employee performance against established objectives, job responsibilities, and company values.
+* Managers will provide ratings and substantive comments on:
+   * Technical skills and knowledge
+   * Quality and quantity of work
+   * Problem-solving abilities
+   * Communication and teamwork
+   * Initiative and innovation
+   * Dependability and professionalism
+Peer Reviews
+* Feedback will be collected from colleagues who regularly work with the employee.
+* Peer reviews will focus on collaboration, teamwork, and specific contributions to projects.
+* Typically, 2-3 peers will be selected to provide feedback.
+* Peer reviews will be anonymous to encourage honest feedback.
+One-on-One Performance Discussions
+* Formal one-on-one meetings will be scheduled between employees and their managers to:
+   * Discuss the employee's performance during the review period
+   * Review feedback from self-assessment and peer reviews
+   * Discuss strengths and areas for development
+   * Set goals and objectives for the upcoming year
+* These meetings should be scheduled for at least 60 minutes to allow for thorough discussion.
+Performance Rating Scale
+Rating Categories
+Advant AI Labs uses a 5-point rating scale to evaluate performance:
+1. Needs Improvement (1): Performance consistently falls below expectations. Immediate improvement is required. A performance improvement plan may be necessary.
+2. Developing (2): Performance occasionally meets expectations but improvement is needed in several key areas.
+3. Meets Expectations (3): Performance consistently meets expectations. Employee is a solid contributor who fulfills all job requirements.
+4. Exceeds Expectations (4): Performance frequently exceeds expectations. Employee makes significant contributions beyond standard job requirements.
+5. Outstanding (5): Performance consistently exceeds expectations in all areas. Employee demonstrates exceptional skills and makes extraordinary contributions to the organization.
+Overall Rating Calculation
+* The overall performance rating will be calculated based on:
+   * 60% - Manager evaluation
+   * 30% - Peer reviews
+   * 10% - Self-assessment
+* The final rating will be rounded to the nearest tenth decimal place.
+Appraisal and Compensation Adjustments
+Compensation Review Process
+* Appraisals are done based on performance throughout the year.
+* The HR department, in coordination with department heads, will review all performance evaluations to ensure consistency and fairness.
+* Compensation adjustments will be determined based on:
+   * Overall performance rating
+   * Current position in salary range
+   * Internal equity considerations
+   * Market competitiveness
+   * Company financial performance
+   * Budget constraints
+Compensation Adjustment Guidelines
+* The following guidelines typically apply for compensation adjustments:
+   * Rating 1.0-1.9: 0% increase (may be subject to performance improvement plan)
+   * Rating 2.0-2.9: 1-3% increase
+   * Rating 3.0-3.9: 4-7% increase
+   * Rating 4.0-4.9: 8-12% increase
+   * Rating 5.0: 13-15% increase or more (may include additional bonus)
+* These guidelines may be adjusted based on company performance and market conditions.
+Timing of Compensation Changes
+* Revised salary will be in effect from January 1 following the performance review.
+* The new compensation will be reflected in the January payroll.
+* Employees will receive written notification of their compensation adjustment by Jan 15 of next year.
+Promotions and Career Development
+Promotion Consideration
+* Promotion decisions are typically made during the annual performance review cycle.
+* Employees must have consistently received "Exceeds Expectations" or "Outstanding" ratings in their current role to be considered for promotion.
+* Promotions are based on demonstrated capability, potential for success in the new role, and business needs.
+Career Development Planning
+* As part of the performance review process, employees and managers will discuss:
+   * Short and long-term career goals
+   * Skills and competencies needed for career advancement
+   * Development opportunities and learning resources
+   * Potential career paths within the organization
+Documentation and Confidentiality
+Performance Documentation
+* All performance reviews will be documented in the company's HR management system.
+* Documentation will include:
+   * Performance ratings and comments
+   * Goals and objectives
+   * Development plans
+   * Employee acknowledgment
+Confidentiality
+* Performance reviews are confidential and will be shared only with:
+   * The employee
+   * Direct manager
+   * Skip-level manager
+   * HR department
+   * Senior leadership as needed for compensation decisions
+Dispute Resolution
+Review Disputes
+* If an employee disagrees with their performance review, they should first discuss concerns with their direct manager.
+* If the issue remains unresolved, the employee may request a review by the next level manager and HR.
+* The employee must submit a written request for review within one week of receiving their performance review.
+
+
+
+
+________________
+Employee Resignation and Exit Policy
+
+
+Purpose
+This policy outlines the procedures and guidelines for employee resignation and the subsequent exit process at Advant AI Labs. It aims to ensure a smooth transition, protect the company’s interests, and maintain professional standards.
+Scope
+This policy applies to all employees of Advant AI Labs, regardless of their employment status (full-time, part-time, contract, etc.).
+Resignation Procedure
+* Formal Resignation
+   * Employees intending to resign from their position must submit a formal resignation letter to their immediate supervisor and the Human Resources (HR) department.
+   * The resignation letter must clearly state the employee’s intention to resign and the effective date of resignation.
+   * Resignation can be submitted in hard copy, or via email to the supervisor and HR.
+* Notice Period
+   * Employees are required to provide a minimum of two (2) months’ written notice prior to their intended last day of employment.
+   * The notice period is intended to allow for a smooth handover of responsibilities and to facilitate the recruitment and training of a replacement.
+   * Any deviation from the two-month notice period must be mutually agreed upon in writing by the employee and the company.
+Acceptance of Resignation
+* Upon receipt of the resignation letter, HR will acknowledge receipt and confirm the effective date of resignation.
+* The company reserves the right to accept or negotiate the terms of the resignation, including the final date of employment.
+Company Rights Post-Resignation
+* Policy Violation Investigation
+   * Advant AI Labs reserves the right to conduct an investigation into any potential policy violations by the employee, even after the resignation has been submitted.
+   * If a violation of company policy is discovered, the company may terminate the employee’s engagement with immediate effect, regardless of the remaining notice period.
+   * This includes but is not limited to, data theft, client poaching, or any breach of confidentiality.
+Asset Return
+* Employees are required to return all company property, including laptops, mobile phones, access cards, and any other company-owned assets, before their last day of employment.
+* Failure to return company property may result in legal action.
+Confidentiality and Non-Compete
+* Employees are reminded of their ongoing obligations regarding confidentiality and non-compete agreements, as outlined in their employment contract.
+Performance-Based Exit
+* Performance Improvement Plan (PIP) and Training
+   * If an employee’s performance is deemed unsatisfactory after receiving appropriate training and based on experience-based expectations, the company may initiate a Performance Improvement Plan (PIP).
+   * The PIP will outline specific performance goals and timelines for improvement.
+* One-Month Notice for Performance
+   * If, after the completion of the PIP, the employee’s performance does not meet the required standards, Advant AI Labs reserves the right to terminate the employee’s employment with one (1) month’s written notice.
+   * This provision is intended to address situations where performance issues persist despite reasonable efforts to improve the employee’s capabilities.
+Performance Documentation
+* All performance based decisions will be backed up with documented evidence.
+Exit Interview
+* An exit interview will be conducted by HR to gather feedback from the departing employee.
+* The exit interview is an opportunity for the employee to provide feedback on their experience at the company and to ensure a smooth transition.
+Final Settlement
+* The final settlement of dues, including any outstanding salary, benefits, and reimbursements, will be processed in accordance with company policy and applicable laws.
+* The final settlement will be subject to any deductions for outstanding loans, advances, or other dues owed to the company.

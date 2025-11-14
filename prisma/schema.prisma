@@ -1,0 +1,36 @@
+
+
+// Specifies the database provider and connection URL.
+datasource db {
+  provider = "postgresql" // We're using PostgreSQL
+  url      = env("POSTGRES_URL") // This comes from your .env file
+}
+
+// Specifies the client generator.
+generator client {
+  provider = "prisma-client-js"
+}
+
+// --- 1. Message Table ---
+model Message {
+  id        String   @id @default(cuid()) // Unique ID
+  text      String
+  role      String  
+  sessionId String 
+  createdAt DateTime @default(now())
+  
+  @@index([sessionId])
+}
+
+// --- 2. DocumentChunk Table (The "Knowledge") ---
+model DocumentChunk {
+  id        String   @id @default(cuid())
+  content   String   // The text "note"
+  
+  // The "flashcard index" (vector embedding)
+  // Storing as JSON array for now (can be migrated to pgvector later)
+  // Google's embedding model (text-embedding-004) creates vectors of 768 dimensions.
+  embedding Json     // Array of 768 numbers: [0.1, 0.2, ...]
+  
+  @@map("document_chunk")
+}
